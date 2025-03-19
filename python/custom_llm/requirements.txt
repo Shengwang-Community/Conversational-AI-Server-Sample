@@ -1,0 +1,5 @@
+openai
+uvicorn
+fastapi
+aiofiles
+uuid
