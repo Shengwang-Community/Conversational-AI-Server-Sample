@@ -19,7 +19,7 @@ go mod tidy
 ### 1.3 运行示例代码
 
 ```bash
-go run custom_llm.main
+go run custom_llm.go
 ```
 
 ## 📖 二、功能说明
