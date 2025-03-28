@@ -1,4 +1,4 @@
-# 🌟 Convsersational-AI-Server-Sample 🌟 
+# 🌟 Convsersational-AI-Server-Sample 🌟
 
 ## 🔮 概述
 
@@ -16,9 +16,10 @@
 
 ## 🚀 快速开始
 
-|   语言 | 功能 |
-| -------- | --- |
-|  [Python](./python/) | [Custom LLM](./python/custom_llm/) |
+| 语言                | 功能                               |
+| ------------------- | ---------------------------------- |
+| [Python](./python/) | [Custom LLM](./python/custom_llm/) |
+| [Golang](./golang/) | [Custom LLM](./golang/custom_llm/) |
 ---
 
 ## ❓ 遇到困难，该如何联系声网获取协助
