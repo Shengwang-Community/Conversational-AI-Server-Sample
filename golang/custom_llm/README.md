@@ -177,18 +177,18 @@ sequenceDiagram
     Server->>Client: SSE data: [DONE]
 ```
 
-## 📚 三、相关资源
+## 📚 五、相关资源
 
 - 📖 查看我们的 [对话式 AI 引擎文档](https://doc.shengwang.cn/doc/convoai/restful/landing-page) 了解更多详情
 - 🧩 访问 [Agora SDK 示例](https://github.com/AgoraIO) 获取更多教程和示例代码
 - 👥 在 [Agora 开发者社区](https://github.com/AgoraIO-Community) 探索开发者社区管理的优质代码仓库
 
-## 💡 四、问题反馈
+## 💡 六、问题反馈
 
 如果您在集成过程中遇到任何问题或有改进建议：
 
 - 🤖 可通过 [声网支持](https://ticket.shengwang.cn/form?type_id=&sdk_product=&sdk_platform=&sdk_version=&current=0&project_id=&call_id=&channel_name=) 获取智能客服帮助或联系技术支持人员
 
-## 📜 五、许可证
+## 📜 七、许可证
 
 本项目采用 MIT 许可证 (The MIT License)。
