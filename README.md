@@ -16,10 +16,11 @@
 
 ## 🚀 快速开始
 
-| 语言                | 功能                               |
+| 语言                 | 功能                                |
 | ------------------- | ---------------------------------- |
 | [Python](./python/) | [Custom LLM](./python/custom_llm/) |
 | [Golang](./golang/) | [Custom LLM](./golang/custom_llm/) |
+| [Node.js](./node/)  | [Custom LLM](./node/custom_llm/)   |
 ---
 
 ## ❓ 遇到困难，该如何联系声网获取协助
